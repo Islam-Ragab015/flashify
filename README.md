@@ -13,16 +13,8 @@
 
 ---
 
-## 🛠️ Getting Started
+## 🖼️ Screenshots
 
-Follow these steps to set up and run the project locally.
+### Home Screen
+![Home Screen](assets/images/home.png)
 
-### Prerequisites
-- Flutter 3.10+ installed on your system.
-- An Android or iOS device/emulator.
-
-### Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/flashify.git
-   cd flashify
